@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I’m currently working on AI, welcome to discuss！
 
 <!--
 **pickmiu/pickmiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
